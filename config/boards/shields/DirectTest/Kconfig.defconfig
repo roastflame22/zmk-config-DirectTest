@@ -1,0 +1,6 @@
+if SHEILD_DIRECTTEST
+
+config ZMK_KEYBOARD_NAME
+    default "DirectTest"
+
+endif

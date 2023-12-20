@@ -1,0 +1,2 @@
+config SHEILD_DIRECTTEST
+    def_bool $(sheilds_list_contains, DirectTest)
